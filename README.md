@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Khushi 👋
 
-<!--
-**Khushi-gitlab/Khushi-gitlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E. Artificial Intelligence & Data Science Student  
+💻 Interested in Software Development, Data Analytics & Machine Learning  
+🌱 Currently improving my Java, SQL and problem-solving skills  
+📍 Bengaluru, India
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- SQL / MySQL
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- DBMS
+- Operating Systems
+- Machine Learning
+- Data Analytics
+- Git & GitHub
+- HTML & CSS
+
+## 🚀 Projects
+
+### Dia Ease: Care and Control
+A digital assistant with reminders for medicines, meals, and sugar-level checks, along with a dashboard and API-based chatbot.
+
+### Loan Approval Prediction
+A machine learning project that predicts loan approval or rejection using applicant data and Logistic Regression.
+
+### Platform Edge Safety Monitoring
+An AI-based surveillance system using YOLOv8, pose estimation, and crowd-density analysis to identify safety risks near railway platform edges.
+
+## 🎯 Career Goal
+
+Looking for opportunities where I can apply my technical skills, learn from real-world projects, and grow as a software professional.
+
+
